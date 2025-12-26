@@ -119,6 +119,10 @@ createKeyRow(Enum.KeyCode.E)
 createKeyRow(Enum.KeyCode.F)
 createKeyRow(Enum.KeyCode.R)
 
+createKeyRow(Enum.KeyCode.Z)
+createKeyRow(Enum.KeyCode.X)
+createKeyRow(Enum.KeyCode.C)
+
 -- PRESS LOOP
 task.spawn(function()
 	while true do
